@@ -9,9 +9,9 @@ redirect_from:
 ---
 I'm a senior student of ECE Department at [Zhejiang University/University of Illinois at Urbana-Champaign Institute](https://zjui.intl.zju.edu.cn/).
 
-I am currently working on my bachelor degree of engineering and am also involved in research and internship programs. Last fall, I went to UIUC for exchange study for a semester, and had a memorable and meaningful time.
+I am currently working on my bachelor degree of engineering and am also involved in research and internship projects. Last fall, I went to UIUC for exchange study for a semester, and had a memorable and meaningful time.
 
-I major in computer engineering and am interested in natural language processing, graph recognition and speech recognition. Recently, my team and I are working on knowledge graph construction for intelligent maintainance of power plant.
+My research interest lies in natural langauage processing, knowledge graphs and image recognition. Recently, my team and I are working on commonsense knowledge graph complementation and knowledge graph construction for intelligent maintainance of power plant.
 
 In my free time, I enjoy watching movies, playing [erhu](https://www.britannica.com/art/erhu), and swimming.
 
@@ -29,7 +29,7 @@ Recent News
 
 Publications
 ------
-[Knowledge Graph Construction for Intelligent Maintainance of Power Plant](https://link.springer.com/chapter/10.1007/978-3-030-34986-8_36)<br>
+[Knowledge Graph Construction for Intelligent Maintainance of Power Plant](https://link.springer.com/chapter/10.1007/978-3-030-34986-8_36) (Best Paper Award)<br> 
 *Yangkai Du, **Jiayuan Huang**, Shuting Tao, Hongwei Wang*
 
 [A Deep-Learning Based Framework for Construction and Reasoning of Knowledge Graph from Power Plant Operation Report](/_site/404.html) (in submission)<br>
@@ -49,7 +49,7 @@ Advisor: [Hongwei Wang](https://person.zju.edu.cn/en/hwang), Zhejiang University
 We proposed a framework to build knowledge graph for power plant to extract knowledge and data from large number of non-structured power plant maintainance report and build knowledge graph based on relation between knowledge entities. Our paper gets published on conference ICEBE 2019, and we are awarded as **Best Paper of Conference**.<br>
 Recently, we are doing experiment by applying Bi-LSTM-Lattice model to extract named entity on power plant filed, and exploring its advantages compared with other models. We are still working on it and the results would be concluded in a paper.
 
-**Commonsense Knowledge Graph Complmentation with High-order Structures**<br>
+**Commonsense Knowledge Graph Complementation with High-order Structures**<br>
 Advisor: [Pengtao Xie](https://pengtaoxie.github.io/), UC San Diego<br>
 
 <!-- ![](../project1.1.png)<br> -->
