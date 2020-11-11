@@ -22,10 +22,11 @@ A PDF version of my CV can be found [here](../files/CV-Jiayuan.pdf), and you can
 
 Recent News
 ------
-- November, 2020: invited as a reviewer in [Thirty-Fifth AAAI Conference on Artificial Intelligence](https://aaai.org/Conferences/AAAI-21/)!
-- June, 2020: Our work *Knowledge Graph Construction for Intelligent Maintainance* is selected as top 20 of Student Academic Achievements (Qizhen Cup) at Zhejiang University.
+- November, 2020: Invited as a reviewer in [Thirty-Fifth AAAI Conference on Artificial Intelligence](https://aaai.org/Conferences/AAAI-21/)!
+- June, 2020: Our work *Knowledge Graph Construction for Intelligent Maintainance* was selected as top 20 of Student Academic Achievements (Qizhen Cup) at Zhejiang University.
 - October, 2019: Our paper [*Knowledge Graph Construction for Intelligent Maintainance of Power Plant*](https://link.springer.com/chapter/10.1007/978-3-030-34986-8_36) was awarded [**Best Paper Award**](https://zjui.intl.zju.edu.cn/en/news/zjui-institute/874773) of ICEBE 2019!
-- November, 2018: My team in Social Partice 2018 Zhejiang University was awarded University-level Outstanding Team (top 10). Our work includes volunteer teaching in rural areas and investigating local enterprise in three contries: Sri Lanka, Singapore and Indonesia.
+- November, 2018: My team in Social Partice 2018 Zhejiang University was awarded University-level Outstanding Team (top 10) as well as Chancheng Scholarship. Our work includes volunteer teaching in rural areas and investigating local enterprise in three contries: Sri Lanka, Indonesia and Cambodia.
+
 
 Publications
 ------
@@ -34,9 +35,6 @@ Publications
 
 [A Deep-Learning Based Framework for Construction and Reasoning of Knowledge Graph from Power Plant Operation Report](/_site/404.html) (in submission)<br>
 *Tingyu Xie, **Jiayuan Huang**, Yangkai Du, Shuting Tao, Qi Li, Hongwei Wang*
-
-
-
 
 
 Selected Projects
@@ -106,6 +104,6 @@ Example: editing a markdown file for a talk
 
 Contact
 ------
-Email: [jiayuan6@illinois.edu](jiayuan6@illinois.edu)<br>
+Email: [jiayuan6@illinois.edu](jiayuan6@illinois.edu) / [jiayuanhuang@zju.edu.cn](jiayuanhuang@zju.edu.cn)<br>
 Phone: +86 159 9036 7326<br>
 Address: 718 East Haizhou Street, Haining, Jiaxing, Zhejiang province, China<br>
