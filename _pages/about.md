@@ -104,6 +104,6 @@ Example: editing a markdown file for a talk
 
 Contact
 ------
-Email: [jiayuan6@illinois.edu](jiayuan6@illinois.edu) / [jiayuanhuang@zju.edu.cn](jiayuanhuang@zju.edu.cn)<br>
+Email: [jiayuan6@illinois.edu](mailto:jiayuan6@illinois.edu) / [jiayuanhuang@zju.edu.cn](mailto:jiayuanhuang@zju.edu.cn)<br>
 Phone: +86 159 9036 7326<br>
 Address: 718 East Haizhou Street, Haining, Jiaxing, Zhejiang province, China<br>
