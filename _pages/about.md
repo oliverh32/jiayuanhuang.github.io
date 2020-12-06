@@ -31,10 +31,13 @@ Recent News
 Publications
 ------
 [Knowledge Graph Construction for Intelligent Maintainance of Power Plant](https://link.springer.com/chapter/10.1007/978-3-030-34986-8_36) (Best Paper Award)<br> 
-*Yangkai Du, **Jiayuan Huang**, Shuting Tao, Hongwei Wang*
+*Yangkai Du, __Jiayuan Huang__, Shuting Tao, Hongwei Wang*
+
+[Structured Pretraining for Commonsense Generation](/_site/404.html) (in submission)<br>
+*__Jiayuan Huang__, Yangkai Du, Shuting Tao, Kun Xu, Pengtao Xie*
 
 [A Deep-Learning Based Framework for Construction and Reasoning of Knowledge Graph from Power Plant Operation Report](/_site/404.html) (in submission)<br>
-*Tingyu Xie, **Jiayuan Huang**, Yangkai Du, Shuting Tao, Qi Li, Hongwei Wang*
+*Tingyu Xie, __Jiayuan Huang__, Yangkai Du, Shuting Tao, Qi Li, Hongwei Wang*
 
 
 Selected Projects
