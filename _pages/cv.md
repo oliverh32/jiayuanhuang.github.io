@@ -29,7 +29,6 @@ Research experience
 * Summer 2020: Commonsense Knowledge Graph Complmentation with leveraging High-order Structures
   * Advisor: [Pengtao Xie](https://pengtaoxie.github.io/) (UC San Diego)
   * We proposed several approaches which leverage  the  high-order  structure  in  CKGs to  capture  the  high-order  relationships  between  concepts. Human evaluation and automatic evaluation results demonstratethe effectiveness of our methods.
-  * Paper in submission to NAACL.
   
 
 

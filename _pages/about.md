@@ -15,7 +15,6 @@ My research interest lies in natural langauage processing, knowledge graphs and 
 
 In my free time, I enjoy watching movies, playing [erhu](https://www.britannica.com/art/erhu), and swimming.
 
-A PDF version of my CV can be found [here](../files/CV-Jiayuan.pdf), and you can also find it at the top bar.    
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
 
@@ -32,9 +31,6 @@ Publications
 ------
 [Knowledge Graph Construction for Intelligent Maintainance of Power Plant](https://link.springer.com/chapter/10.1007/978-3-030-34986-8_36) (Best Paper Award)<br> 
 *Yangkai Du, __Jiayuan Huang__, Shuting Tao, Hongwei Wang*
-
-[Structured Pretraining for Commonsense Generation](/_site/404.html) (in submission)<br>
-*__Jiayuan Huang__, Yangkai Du, Shuting Tao, Kun Xu, Pengtao Xie*
 
 [A Deep-Learning Based Framework for Construction and Reasoning of Knowledge Graph from Power Plant Operation Report](/_site/404.html) (in submission)<br>
 *Tingyu Xie, __Jiayuan Huang__, Yangkai Du, Shuting Tao, Qi Li, Hongwei Wang*
@@ -55,7 +51,7 @@ Advisor: [Pengtao Xie](https://pengtaoxie.github.io/), UC San Diego<br>
 
 <!-- ![](../project1.1.png)<br> -->
 
-We proposed several approaches which leverage  the  high-order  structure  in  CKGs to  capture  the  high-order  relationships  between  concepts. Human evaluation and automatic evaluation results demonstratethe effectiveness of our methods. Paper under submission to NAACL.
+We proposed several approaches which leverage  the  high-order  structure  in  CKGs to  capture  the  high-order  relationships  between  concepts. Human evaluation and automatic evaluation results demonstratethe effectiveness of our methods. 
 
 **FPGA based Game Design**<br>
 Advisor: [Chushan Li](https://person.zju.edu.cn/en/lichushan), Zhejiang University<br>
