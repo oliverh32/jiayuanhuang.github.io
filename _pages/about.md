@@ -52,7 +52,7 @@ Advisor: [Pengtao Xie](https://pengtaoxie.github.io/), UC San Diego<br>
 
 <!-- ![](../project1.1.png)<br> -->
 
-We proposed several approaches which leverage  the  high-order  structure  in  CKGs to  capture  the  high-order  relationships  between  concepts. Human evaluation and automatic evaluation results demonstratethe effectiveness of our methods.  -->
+<!-- We proposed several approaches which leverage  the  high-order  structure  in  CKGs to  capture  the  high-order  relationships  between  concepts. Human evaluation and automatic evaluation results demonstratethe effectiveness of our methods.  --> -->
 
 **FPGA based Game Design**<br>
 Advisor: [Chushan Li](https://person.zju.edu.cn/en/lichushan), Zhejiang University<br>
