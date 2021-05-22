@@ -45,14 +45,15 @@ Advisor: [Hongwei Wang](https://person.zju.edu.cn/en/hwang), Zhejiang University
 ![](../project1.1.png)<br>
 
 <!-- We proposed a framework to build knowledge graph for power plant to extract knowledge and data from large number of non-structured power plant maintainance report and build knowledge graph based on relation between knowledge entities. Our paper gets published on conference ICEBE 2019, and we are awarded as **Best Paper of Conference**.<br> -->
-Recently, we are doing experiment by applying Bi-LSTM-Lattice model to extract named entity on power plant filed, and exploring its advantages compared with other models. We are still working on it and the results would be concluded in a paper.
+Recently, we are doing experiment by applying Bi-LSTM-Lattice model to extract named entity on power plant filed, and exploring its advantages compared with other models. 
+<!-- We are still working on it and the results would be concluded in a paper. -->
 
 <!-- **Commonsense Knowledge Graph Complementation with High-order Structures**<br>
 Advisor: [Pengtao Xie](https://pengtaoxie.github.io/), UC San Diego<br>
 
 <!-- ![](../project1.1.png)<br> -->
 
-<!-- We proposed several approaches which leverage  the  high-order  structure  in  CKGs to  capture  the  high-order  relationships  between  concepts. Human evaluation and automatic evaluation results demonstratethe effectiveness of our methods.  --> -->
+<!-- We proposed several approaches which leverage  the  high-order  structure  in  CKGs to  capture  the  high-order  relationships  between  concepts. Human evaluation and automatic evaluation results demonstratethe effectiveness of our methods. -->
 
 **FPGA based Game Design**<br>
 Advisor: [Chushan Li](https://person.zju.edu.cn/en/lichushan), Zhejiang University<br>
