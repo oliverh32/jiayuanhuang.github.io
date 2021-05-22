@@ -11,7 +11,7 @@ I'm a senior student of ECE Department at [Zhejiang University/University of Ill
 
 I am currently working on my bachelor degree of engineering and am also involved in research and internship projects. Last fall, I went to UIUC for exchange study for a semester, and had a memorable and meaningful time.
 
-My research interest lies in natural langauage processing, knowledge graphs and image recognition. Recently, my team and I are working on commonsense knowledge graph complementation and knowledge graph construction for intelligent maintainance of power plant.
+<!-- My research interest lies in natural langauage processing, knowledge graphs and image recognition. Recently, my team and I are working on commonsense knowledge graph complementation and knowledge graph construction for intelligent maintainance of power plant. -->
 
 In my free time, I enjoy watching movies, playing [erhu](https://www.britannica.com/art/erhu), and swimming.
 
@@ -21,19 +21,20 @@ In my free time, I enjoy watching movies, playing [erhu](https://www.britannica.
 
 Recent News
 ------
-- November, 2020: Invited as a reviewer in [Thirty-Fifth AAAI Conference on Artificial Intelligence](https://aaai.org/Conferences/AAAI-21/)!
+<!-- - November, 2020: Invited as a reviewer in [Thirty-Fifth AAAI Conference on Artificial Intelligence](https://aaai.org/Conferences/AAAI-21/)!
 - June, 2020: Our work *Knowledge Graph Construction for Intelligent Maintainance* was selected as top 20 of Student Academic Achievements (Qizhen Cup) at Zhejiang University.
-- October, 2019: Our paper [*Knowledge Graph Construction for Intelligent Maintainance of Power Plant*](https://link.springer.com/chapter/10.1007/978-3-030-34986-8_36) was awarded [**Best Paper Award**](https://zjui.intl.zju.edu.cn/en/news/zjui-institute/874773) of ICEBE 2019!
+- October, 2019: Our paper [*Knowledge Graph Construction for Intelligent Maintainance of Power Plant*](https://link.springer.com/chapter/10.1007/978-3-030-34986-8_36) was awarded [**Best Paper Award**](https://zjui.intl.zju.edu.cn/en/news/zjui-institute/874773) of ICEBE 2019! -->
 - November, 2018: My team in Social Partice 2018 Zhejiang University was awarded University-level Outstanding Team (top 10) as well as Chancheng Scholarship. Our work includes volunteer teaching in rural areas and investigating local enterprise in three contries: Sri Lanka, Indonesia and Cambodia.
 
 
 Publications
 ------
-[Knowledge Graph Construction for Intelligent Maintainance of Power Plant](https://link.springer.com/chapter/10.1007/978-3-030-34986-8_36) (Best Paper Award)<br> 
+[Knowledge Graph Construction for Intelligent Maintainance of Power Plant](https://link.springer.com/chapter/10.1007/978-3-030-34986-8_36) 
+<!-- (Best Paper Award)<br>  -->
 *Yangkai Du, __Jiayuan Huang__, Shuting Tao, Hongwei Wang*
-
+<!-- 
 [A Deep-Learning Based Framework for Construction and Reasoning of Knowledge Graph from Power Plant Operation Report](/_site/404.html) (in submission)<br>
-*Tingyu Xie, __Jiayuan Huang__, Yangkai Du, Shuting Tao, Qi Li, Hongwei Wang*
+*Tingyu Xie, __Jiayuan Huang__, Yangkai Du, Shuting Tao, Qi Li, Hongwei Wang* -->
 
 
 Selected Projects
@@ -43,15 +44,15 @@ Advisor: [Hongwei Wang](https://person.zju.edu.cn/en/hwang), Zhejiang University
 
 ![](../project1.1.png)<br>
 
-We proposed a framework to build knowledge graph for power plant to extract knowledge and data from large number of non-structured power plant maintainance report and build knowledge graph based on relation between knowledge entities. Our paper gets published on conference ICEBE 2019, and we are awarded as **Best Paper of Conference**.<br>
+<!-- We proposed a framework to build knowledge graph for power plant to extract knowledge and data from large number of non-structured power plant maintainance report and build knowledge graph based on relation between knowledge entities. Our paper gets published on conference ICEBE 2019, and we are awarded as **Best Paper of Conference**.<br> -->
 Recently, we are doing experiment by applying Bi-LSTM-Lattice model to extract named entity on power plant filed, and exploring its advantages compared with other models. We are still working on it and the results would be concluded in a paper.
 
-**Commonsense Knowledge Graph Complementation with High-order Structures**<br>
+<!-- **Commonsense Knowledge Graph Complementation with High-order Structures**<br>
 Advisor: [Pengtao Xie](https://pengtaoxie.github.io/), UC San Diego<br>
 
 <!-- ![](../project1.1.png)<br> -->
 
-We proposed several approaches which leverage  the  high-order  structure  in  CKGs to  capture  the  high-order  relationships  between  concepts. Human evaluation and automatic evaluation results demonstratethe effectiveness of our methods. 
+We proposed several approaches which leverage  the  high-order  structure  in  CKGs to  capture  the  high-order  relationships  between  concepts. Human evaluation and automatic evaluation results demonstratethe effectiveness of our methods.  -->
 
 **FPGA based Game Design**<br>
 Advisor: [Chushan Li](https://person.zju.edu.cn/en/lichushan), Zhejiang University<br>
