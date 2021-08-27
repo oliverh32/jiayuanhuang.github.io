@@ -21,8 +21,8 @@ In my free time, I enjoy watching movies, playing [erhu](https://www.britannica.
 
 Recent News
 ------
-- July, 2021: Our paper *Structured Self-Supervised Pretraining for Commonsense Knowledge Graph Completion* was accpted [*by Transactions of the Association for Computational Linguistics*](https://transacl.org/index.php/tacl)!
-- November, 2020: Invited as a reviewer in [Thirty-Fifth AAAI Conference on Artificial Intelligence](https://aaai.org/Conferences/AAAI-21/)!
+- July, 2021: Our paper *Structured Self-Supervised Pretraining for Commonsense Knowledge Graph Completion* was accpted by [*Transactions of the Association for Computational Linguistics*](https://transacl.org/index.php/tacl)!
+- November, 2020: Invited as a reviewer in [*Thirty-Fifth AAAI Conference on Artificial Intelligence*](https://aaai.org/Conferences/AAAI-21/)!
 - June, 2020: Our work *Knowledge Graph Construction for Intelligent Maintainance* was selected as top 20 of Student Academic Achievements (Qizhen Cup) at Zhejiang University.
 - October, 2019: Our paper [*Knowledge Graph Construction for Intelligent Maintainance of Power Plant*](https://link.springer.com/chapter/10.1007/978-3-030-34986-8_36) was awarded [**Best Paper Award**](https://zjui.intl.zju.edu.cn/en/news/zjui-institute/874773) of ICEBE 2019!
 - November, 2018: My team in Social Partice 2018 Zhejiang University was awarded University-level Outstanding Team (top 10) as well as Chancheng Scholarship. Our work includes volunteer teaching in rural areas and investigating local enterprise in three contries: Sri Lanka, Indonesia and Cambodia.
@@ -30,7 +30,7 @@ Recent News
 
 Publications
 ------
-[Structured Self-Supervised Pretraining for Commonsense Knowledge Graph Completion](/_site/404.html) (accpted by TACL) 
+[Structured Self-Supervised Pretraining for Commonsense Knowledge Graph Completion](/_site/404.html) (accpted by TACL)<br>
 *__Jiayuan Huang__, Yangkai Du, Shuting Tao, Kun Xu, Pengtao Xie*
 
 [Knowledge Graph Construction for Intelligent Maintainance of Power Plant](https://link.springer.com/chapter/10.1007/978-3-030-34986-8_36) 
