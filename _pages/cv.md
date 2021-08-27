@@ -18,24 +18,27 @@ Education
 
 Publications
 ------
+* [Structured Self-Supervised Pretraining for Commonsense Knowledge Graph Completion](/_site/404.html)<br>
+*__Jiayuan Huang__, Yangkai Du, Shuting Tao, Kun Xu, Pengtao Xie*
+
 * [Knowledge Graph Construction for Intelligent Maintainance of Power Plant](https://link.springer.com/chapter/10.1007/978-3-030-34986-8_36)<br>
 *Yangkai Du, **Jiayuan Huang**, Shuting Tao, Hongwei Wang*
 
-<!-- * [A Deep-Learning Based Framework for Construction and Reasoning of Knowledge Graph from Power Plant Operation Report](/_site/404.html) (in submission)<br>
-*Tingyu Xie, **Jiayuan Huang**, Yangkai Du, Shuting Tao, Qi Li, Hongwei Wang* -->
+* [A Deep-Learning Based Framework for Construction and Reasoning of Knowledge Graph from Power Plant Operation Report](/_site/404.html) (in submission)<br>
+*Tingyu Xie, **Jiayuan Huang**, Yangkai Du, Shuting Tao, Qi Li, Hongwei Wang*
 
 Research experience
 ------
-<!-- * Summer 2020: Commonsense Knowledge Graph Complmentation with leveraging High-order Structures
+* Summer 2020: Commonsense Knowledge Graph Complmentation with leveraging High-order Structures
   * Advisor: [Pengtao Xie](https://pengtaoxie.github.io/) (UC San Diego)
-  * We proposed several approaches which leverage  the  high-order  structure  in  CKGs to  capture  the  high-order  relationships  between  concepts. Human evaluation and automatic evaluation results demonstratethe effectiveness of our methods. -->
+  * We proposed several approaches which leverage  the  high-order  structure  in  CKGs to  capture  the  high-order  relationships  between  concepts. Human evaluation and automatic evaluation results demonstratethe effectiveness of our methods.
   
 
 
 * Summer 2019: Knowledge Graph Construction for Intelligent Maintainance
   * Advisor: [Hongwei Wang](https://person.zju.edu.cn/en/hwang) (Zhejiang University)
-  <!-- * Proposed a framework to build knowledge graph for power plant to extract knowledge and data from large number of non-structured power plant maintainance report and build knowledge graph based on relation between knowledge entities. -->
-  <!-- * Our paper gets published on conference ICEBE 2019, and we are awarded **Best Paper Award**. -->
+  * Proposed a framework to build knowledge graph for power plant to extract knowledge and data from large number of non-structured power plant maintainance report and build knowledge graph based on relation between knowledge entities. -->
+  <!-- * Our paper gets published on conference ICEBE 2019, and we are awarded **Best Paper Award**.
 
 
 
@@ -49,7 +52,7 @@ Industry experience
 
 Service and leadership
 ------
-<!-- * Reviewer, invited as a reviewer in Thirty-Fifth AAAI Conference on Artificial Intelligence -->
+* Reviewer, invited as a reviewer in Thirty-Fifth AAAI Conference on Artificial Intelligence
 * Assistant Supervisor, UIUC graduate class of exchange students in Zhejiang University 
 * Chairman, 2nd Student Congress of International Campus of Zhejiang University
 * Director, Student Association Consulting Center of International Campus of Zhejiang University
@@ -58,7 +61,7 @@ Service and leadership
 Skills
 ------
 * Python, C++, C and MATLAB
-<!-- * Pytorch, Tensorflow -->
+* Pytorch, Tensorflow
 
 
 <!-- Talks

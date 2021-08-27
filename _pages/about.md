@@ -15,13 +15,15 @@ My research interest lies in natural langauage processing, knowledge graphs and 
 
 In my free time, I enjoy watching movies, playing [erhu](https://www.britannica.com/art/erhu), and swimming.
 
+You can find my CV [here](/files/CV%20-%20Jiayuan%20Huang.pdf.pdf) or at the CV page of this website. 
+
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
 
 
 Recent News
 ------
-- July, 2021: Our paper *Structured Self-Supervised Pretraining for Commonsense Knowledge Graph Completion* was accpted by [*Transactions of the Association for Computational Linguistics*](https://transacl.org/index.php/tacl)!
+- July, 2021: Our paper [*Structured Self-Supervised Pretraining for Commonsense Knowledge Graph Completion*](/_site/404.html) was accpted by [*Transactions of the Association for Computational Linguistics*](https://transacl.org/index.php/tacl)!
 - November, 2020: Invited as a reviewer in [*Thirty-Fifth AAAI Conference on Artificial Intelligence*](https://aaai.org/Conferences/AAAI-21/)!
 - June, 2020: Our work *Knowledge Graph Construction for Intelligent Maintainance* was selected as top 20 of Student Academic Achievements (Qizhen Cup) at Zhejiang University.
 - October, 2019: Our paper [*Knowledge Graph Construction for Intelligent Maintainance of Power Plant*](https://link.springer.com/chapter/10.1007/978-3-030-34986-8_36) was awarded [**Best Paper Award**](https://zjui.intl.zju.edu.cn/en/news/zjui-institute/874773) of ICEBE 2019!
