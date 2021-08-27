@@ -37,8 +37,8 @@ Research experience
 
 * Summer 2019: Knowledge Graph Construction for Intelligent Maintainance
   * Advisor: [Hongwei Wang](https://person.zju.edu.cn/en/hwang) (Zhejiang University)
-  * Proposed a framework to build knowledge graph for power plant to extract knowledge and data from large number of non-structured power plant maintainance report and build knowledge graph based on relation between knowledge entities. -->
-  <!-- * Our paper gets published on conference ICEBE 2019, and we are awarded **Best Paper Award**.
+  * Proposed a framework to build knowledge graph for power plant to extract knowledge and data from large number of non-structured power plant maintainance report and build knowledge graph based on relation between knowledge entities. 
+  * Our paper gets published on conference ICEBE 2019, and we are awarded **Best Paper Award**.
 
 
 
