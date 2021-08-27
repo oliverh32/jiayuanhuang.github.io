@@ -9,7 +9,7 @@ redirect_from:
 ---
 I'm a First-year master student of [SCS Department](https://www.cs.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/).
 
-I am currently working on my master degree of science and am also looking for research and internship projects. This fall, I just finished my undergraduat from [Zhejiang University/University of Illinois at Urbana-Champaign Institute](https://zjui.intl.zju.edu.cn/en). I want to thank all my friends and professors for such a wonderful time. 
+I am currently working on my master degree of science and am also looking for research and internship projects. This fall, I just finished my undergraduat from [Zhejiang University/University of Illinois at Urbana-Champaign Institute](https://zjui.intl.zju.edu.cn/en). I want to thank all my friends and professors for all the help during such a wonderful time!
 
 My research interest lies in natural langauage processing, knowledge graphs and image recognition. Recently, my team is working on commonsense knowledge graph complementation and knowledge graph construction for intelligent maintainance of power plant.
 
