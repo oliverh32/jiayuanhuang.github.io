@@ -9,7 +9,7 @@ redirect_from:
 ---
 I'm a First-year master student of [SCS Department](https://www.cs.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/).
 
-I am currently working on my master degree of science and am also looking for research and internship projects. This fall, I just finished my undergraduat from [Zhejiang University/University of Illinois at Urbana-Champaign Institute](https://zjui.intl.zju.edu.cn/en), and got BEng in Electronic and Computer Engineering from [Zhejiang University](https://www.zju.edu.cn/english/) and BSc in Computer Engineering from [UIUC](https://illinois.edu/).
+I am currently working on my master degree of science and am also looking for research and internship projects. This fall, I just finished my undergraduat from [Zhejiang University/University of Illinois at Urbana-Champaign Institute](https://zjui.intl.zju.edu.cn/en). I want to thank all my friends and professors for such a wonderful time. 
 
 My research interest lies in natural langauage processing, knowledge graphs and image recognition. Recently, my team is working on commonsense knowledge graph complementation and knowledge graph construction for intelligent maintainance of power plant.
 
@@ -111,6 +111,6 @@ Example: editing a markdown file for a talk
 
 Contact
 ------
-Email: [jiayuan6@illinois.edu](mailto:jiayuan6@illinois.edu) / [jiayuanhuang@zju.edu.cn](mailto:jiayuanhuang@zju.edu.cn)<br>
-Phone: +86 159 9036 7326<br>
-Address: 718 East Haizhou Street, Haining, Jiaxing, Zhejiang province, China<br>
+Email: [jiayuan3@andrew.cmu.edu](mailto:jiayuan3@andrew.cmu.edu) / [huangjiayuan33@gmail.com](mailto:huangjiayuan33@gmail.com)<br>
+Phone: (412) 736-1206<br>
+Address: 5522 Baum Blvd, Pittsburgh, Pennsylvania, United States<br>
