@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jiayuan Huang"
 title_separator          : "-"
 name                     : &name "Jiayuan Huang"
-description              : &description "Senior student of ECE department at ZJUI institute"
+description              : &description "Master student of SCS Department at Carnegie Mellon University"
 url                      : https://jiayuanhuang.info # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Jiayuan Huang"
   avatar           : "profile.png"
-  bio              : "Senior Student of ECE Department at ZJUI Institute"
-  location         : Haining, P.R.China
+  bio              : "Master student of SCS Department at Carnegie Mellon University"
+  location         : Pittsburgh, United States
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "jiayuan6@illinois.edu"
+  email            : "huangjiayuan33@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
