@@ -26,7 +26,7 @@ Recent News
 - July, 2021: Our paper [*Structured Self-Supervised Pretraining for Commonsense Knowledge Graph Completion*](/_site/404.html) was accpted by [*Transactions of the Association for Computational Linguistics*](https://transacl.org/index.php/tacl)!
 - November, 2020: Invited as a reviewer in [*Thirty-Fifth AAAI Conference on Artificial Intelligence*](https://aaai.org/Conferences/AAAI-21/)!
 - June, 2020: Our work *Knowledge Graph Construction for Intelligent Maintainance* was selected as top 20 of Student Academic Achievements (Qizhen Cup) at Zhejiang University.
-- October, 2019: Our paper [*Knowledge Graph Construction for Intelligent Maintainance of Power Plant*](https://link.springer.com/chapter/10.1007/978-3-030-34986-8_36) was awarded [**Best Paper Award**](https://zjui.intl.zju.edu.cn/en/news/zjui-institute/874773) of ICEBE 2019!
+- September, 2019: Our paper [*Knowledge Graph Construction for Intelligent Maintainance of Power Plant*](https://link.springer.com/chapter/10.1007/978-3-030-34986-8_36) was accepted by IEEE ICEBE 2019!
 - November, 2018: My team in Social Partice 2018 Zhejiang University was awarded University-level Outstanding Team (top 10) as well as Chancheng Scholarship. Our work includes volunteer teaching in rural areas and investigating local enterprise in three contries: Sri Lanka, Indonesia and Cambodia.
 
 
@@ -36,7 +36,7 @@ Publications
 *__Jiayuan Huang__, Yangkai Du, Shuting Tao, Kun Xu, Pengtao Xie*
 
 [Knowledge Graph Construction for Intelligent Maintainance of Power Plant](https://link.springer.com/chapter/10.1007/978-3-030-34986-8_36) 
-(Best Paper Award in IEEE ICEBE 2019)<br> 
+(IEEE ICEBE 2019)<br> 
 *Yangkai Du, __Jiayuan Huang__, Shuting Tao, Hongwei Wang*
 
 [A Deep-Learning Based Framework for Construction and Reasoning of Knowledge Graph from Power Plant Operation Report](/_site/404.html) (in submission)<br>
@@ -45,14 +45,6 @@ Publications
 
 Selected Projects
 ------
-**Knowledge Graph Construction for Intelligent Maintainance**<br>
-Advisor: [Hongwei Wang](https://person.zju.edu.cn/en/hwang), Zhejiang University<br>
-
-![](../project1.1.png)<br>
-
-We proposed a framework to build knowledge graph for power plant to extract knowledge and data from a large number of non-structured power plant maintainance report and build knowledge graph based on relation between knowledge entities. Our paper gets published on conference IEEE ICEBE 2019, and we are awarded as **Best Paper of Conference**.<br> 
-<!-- We are still working on it and the results would be concluded in a paper. -->
-
 **Commonsense Knowledge Graph Complementation with High-order Structures**<br>
 Advisor: [Pengtao Xie](https://pengtaoxie.github.io/), UC San Diego<br>
 
@@ -60,7 +52,15 @@ Advisor: [Pengtao Xie](https://pengtaoxie.github.io/), UC San Diego<br>
 
 We propose several approaches which leverage the high-order structure in Commonsense Knowledge Graphs (CKGs) to capture the high-order relationships between concepts. Specifically, we consider four types of structures: 1) concepts have long-range relations; 2) multiple paths exist between a pair of source and target concept; 3) each concept has multiple inbound relations and outbound relations with other concepts; and 4) each concept is involved in a local graph and initiates a path. 
 
-Based on these structures, we propose four pretraining methods of the concept generation models: 1) pretraining on individual paths; 2) path-to-path pretraining; 3) router pretraining; and 4) graph-to-path pretraining. Experiments on two datasets demonstrate the effectiveness of our methods. The code will be released via public GitHub repository. 
+Based on these structures, we propose four pretraining methods of the concept generation models: 1) pretraining on individual paths; 2) path-to-path pretraining; 3) router pretraining; and 4) graph-to-path pretraining. Experiments on two datasets demonstrate the effectiveness of our methods. The paper has been accpted by TACL.
+
+**Knowledge Graph Construction for Intelligent Maintainance**<br>
+Advisor: [Hongwei Wang](https://person.zju.edu.cn/en/hwang), Zhejiang University<br>
+
+![](../project1.1.png)<br>
+
+We proposed a framework to build knowledge graphs for the power plants to extract knowledge and data from a large number of non-structured power plant maintenance reports and build knowledge graphs based on the relation between knowledge entities. Our paper gets published at the conference IEEE ICEBE 2019, and we are awarded as Best Paper of Conference.<br> 
+<!-- We are still working on it and the results would be concluded in a paper. -->
 
 **FPGA based Game Design**<br>
 Advisor: [Chushan Li](https://person.zju.edu.cn/en/lichushan), Zhejiang University<br>
